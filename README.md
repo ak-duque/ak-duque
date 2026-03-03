@@ -10,7 +10,7 @@
 <div align="center">
 
   <h1>Hello (Bio)World!</h1>
-  <h3>I'm Andrea Duque, a computational biology and bioinformatics graduate</h3>
+  <p>I'm Andrea Duque, a computational biology and bioinformatics graduate</p>
 
 </div>
 
@@ -18,13 +18,15 @@
 <!-- ============================= -->
 <!--             ABOUT ME          -->
 <!-- ============================= -->
+ 
  ## About me 
+ 
 🎓 MSc at NOVA School of Science and Technology <br/>
 🔬 Specialized in Multi‑Omics for Life and Health Sciences <br/>
 🐟 Recently worked on a functional genomics approach to explore adaptation and resilience to thermal stress in intertidal fish. <br/>
-📈 Passionate about finding biological patterns, extracting meaningful insights, and creating clear, aesthetic visualizations (hopefully one day, Nature‑style!) <br/>
-💻 Currently improving my programming and data analysis skills in Python and R <br/>
-🌱 Curious, organized, and eager to apply data‑driven approaches to real‑world challenges in life sciences and healthcare <br/>
+📈 Passionate about finding patterns, extracting meaningful insights, and creating clear, aesthetic visualizations (hopefully one day, Nature‑style!). <br/>
+💻 Currently improving my programming and data analysis skills in Python and R. <br/>
+
 
 
 
