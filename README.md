@@ -14,7 +14,7 @@
 <!-- </div> --> 
 
 # 👋 Hello (Bio)World!
-I'm Andrea Duque, a computational biology and bioinformatics graduate.<br/>
+I'm Andrea Duque, a *computational biology and bioinformatics* graduate.<br/>
 Here, I’ll be sharing the projects I developed during my master’s courses.<br/>
 **`I'm constantly learning, unlearning, and relearning`** 
 <!-- ============================= -->
