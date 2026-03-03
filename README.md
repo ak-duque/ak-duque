@@ -14,10 +14,9 @@
 <!-- </div> --> 
 
 # 👋 Hello (Bio)World!
-**`Constantly learning, unlearning, and relearning`** <br/>
 I'm Andrea Duque, a computational biology and bioinformatics graduate.<br/>
 Here, I’ll be sharing the projects I developed during my master’s courses.
-
+**`Constantly learning, unlearning, and relearning`** 
 <!-- ============================= -->
 <!--             ABOUT ME          -->
 <!-- ============================= -->
