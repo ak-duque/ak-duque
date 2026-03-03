@@ -1,7 +1,7 @@
 
 
 
-![DNA damage illustration](https://mir-s3-cdn-cf.behance.net/project_modules/1400/0a3c7d99055383.5f0f3b8f1e3e0.jpg)
+![DNA damage illustration]([https://mir-s3-cdn-cf.behance.net/project_modules/1400/0a3c7d99055383.5f0f3b8f1e3e0.jpg](https://www.behance.net/gallery/99055383/Illustration-scientist-looking-for-DNA-damage/modules/571795825))
 
 
 <!-- ============================= -->
@@ -17,7 +17,7 @@
 <!-- ============================= -->
 <!--             ABOUT ME          -->
 <!-- ============================= -->
- ---
+
  ## About me: 
  
 🎓 MSc at NOVA School of Science and Technology. <br/>
