@@ -5,18 +5,18 @@
 <!-- ============================= -->
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
-# Hi, I'm Andrea Duque
-
-
+# 👋 Hi, I'm Andrea Duque
 
 
 <!-- ============================= -->
 <!--             ABOUT ME          -->
 <!-- ============================= -->
-## About me
-I am currently working on and developing my programming skills.
+## 🧬 About me
+**`Computational Biologist / Bioinformatics / Data Analyst Enthusiast`**
 
-Interest in ...
+I am currently working on and developing my programming skills.
+Algo sobre o que fiz na tese ...
+Interest in.. algo sobre bioinformática clínica...
 
 
 <!-- ============================= -->
