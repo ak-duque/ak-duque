@@ -7,17 +7,14 @@
 <!-- ============================= -->
 <!-- # 👋 Hi, I'm Andrea Duque -->
 
-# 🧬 Hello, Bio‑World! 
+# Hello, Bio‑World! 
+---
 <!-- ============================= -->
 <!--             ABOUT ME          -->
 <!-- ============================= -->
  ## About me 
 
-**`Computational Biology & Bioinformatics Graduate | Focus on Multi‑Omics for Life and Health Sciences`** 
 
-Currently improving my programming and data analysis skills in Python and R.  
-Passionate about discovering patterns, extracting insights, and connecting biology with technology. 
-Always curious and eager to learn new tools, improve workflows, and collaborate on meaningful projects.  
 
 
 <!-- ============================= -->
