@@ -21,8 +21,9 @@
 <!--         TECH & TOOLS          -->
 <!-- ============================= -->
 ## 📚 Languages & Tools I Have Placed My Hands On
-<div align="center"> 
-[![Skills](https://skillicons.dev/icons?i=r,python,git)](https://skillicons.dev)
-</div>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
