@@ -5,13 +5,14 @@
 <!-- ============================= -->
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
-# 👋 Hi, I'm Andrea Duque
+<!-- # 👋 Hi, I'm Andrea Duque -->
 
 
 <!-- ============================= -->
 <!--             ABOUT ME          -->
 <!-- ============================= -->
-## 🧬 About me
+<!-- ## 🧬 About me -->
+
 **`Computational Biologist / Bioinformatics / Data Analyst Enthusiast`**
 
 I am currently working on and developing my programming skills.
