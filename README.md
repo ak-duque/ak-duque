@@ -11,7 +11,7 @@
 <!-- ============================= -->
 <!--             ABOUT ME          -->
 <!-- ============================= -->
-<!-- ## 🧬 About me -->
+ ## 🧬 About me 
 
 **`Computational Biology & Bioinformatics Graduate | Focus on Multi‑Omics for Life and Health Sciences`** 
 
