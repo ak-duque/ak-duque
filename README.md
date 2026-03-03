@@ -7,19 +7,25 @@
 <!-- ============================= -->
 <!-- # 👋 Hi, I'm Andrea Duque -->
 
-<h1 align="center">Hello (Bio)World!</h1>
-<h3 align="center">I'm Andrea Duque a computational biology and bioinformatics graduate.</h3>
+<div align="center">
+
+  <h1>Hello (Bio)World!</h1>
+  <h3>I'm Andrea Duque, a computational biology and bioinformatics graduate</h3>
+
+</div>
 
 
 <!-- ============================= -->
 <!--             ABOUT ME          -->
 <!-- ============================= -->
  ## About me 
-Msc at NOVA School of Science and Technology <br/>
-Specialise on Multi-Omic for life and ... <br/>
-Recently I worked on RNA-seq ... <br/>
-Passionate about finding patterns ... <br/>
-Currently improving my programing and data analysis skills .. <br/>
+🎓 MSc at NOVA School of Science and Technology <br/>
+🔬 Specialized in Multi‑Omics for Life and Health Sciences <br/>
+🐟 Recently worked on a functional genomics approach to explore adaptation and resilience to thermal stress in intertidal fish. <br/>
+📈 Passionate about finding biological patterns, extracting meaningful insights, and creating clear, aesthetic visualizations (hopefully one day, Nature‑style!) <br/>
+💻 Currently improving my programming and data analysis skills in Python and R <br/>
+🌱 Curious, organized, and eager to apply data‑driven approaches to real‑world challenges in life sciences and healthcare <br/>
+
 
 
 <!-- ============================= -->
@@ -27,8 +33,10 @@ Currently improving my programing and data analysis skills .. <br/>
 <!-- ============================= -->
 ## Languages & Tools I Have Placed My Hands On
 <p align="center">
+ 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,docker,git,github,latex,linux,notion,py,r,stackoverflow,ubuntu,vscode&theme=light" />
   </a>
+  
 </p>
 
