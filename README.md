@@ -13,7 +13,7 @@
 <!-- ============================= -->
 <!-- ## 🧬 About me -->
 
-<ins>Computational Biologist / Bioinformatics / Data Analyst Enthusiast</ins>
+**`Computational Biology & Bioinformatics Graduate | Focus on Multi‑Omics for Life and Health Sciences`** 
 
 Currently improving my programming and data analysis skills in Python and R.  
 Passionate about discovering patterns, extracting insights, and connecting biology with technology. 
