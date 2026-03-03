@@ -13,11 +13,11 @@
 <!-- ============================= -->
 <!-- ## 🧬 About me -->
 
-**`Computational Biologist / Bioinformatics / Data Analyst Enthusiast`**
+<ins>Computational Biologist / Bioinformatics / Data Analyst Enthusiast</ins>
 
-I am currently working on and developing my programming skills.
-Algo sobre o que fiz na tese ...
-Interest in.. algo sobre bioinformática clínica...
+Currently improving my programming and data analysis skills in Python and R.  
+Passionate about discovering patterns, extracting insights, and connecting biology with technology. 
+Always curious and eager to learn new tools, improve workflows, and collaborate on meaningful projects.  
 
 
 <!-- ============================= -->
