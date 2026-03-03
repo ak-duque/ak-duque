@@ -5,8 +5,7 @@
 <!-- ============================= -->
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
-# ![wave](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif)
- Hi, I'm Andrea Duque
+# Hi, I'm Andrea Duque
 
 
 
