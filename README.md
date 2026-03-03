@@ -1,7 +1,8 @@
 
 
-![image](https://github.com/user-attachments/assets/536d13fe-c912-42f6-85e6-619b70be7835)
+<!-- ![image](https://github.com/user-attachments/assets/536d13fe-c912-42f6-85e6-619b70be7835) -->
 
+![94738219251d5c6445881f590bba00bb](https://github.com/user-attachments/assets/83a83498-0054-434c-a747-8f8faafc19ec)
 
 <!-- ============================= -->
 <!--          INTRODUCTION         -->
@@ -12,8 +13,8 @@
 <!-- <p><strong>I'm Andrea Duque, a computational biology and bioinformatics graduate</strong></p> -->
 <!-- </div> --> 
 
-# Hello (Bio)World! <br/>
-### I'm Andrea Duque, a computational biology and bioinformatics graduate
+# 👋 Hello (Bio)World! <br/>
+I'm Andrea Duque, a computational biology and bioinformatics graduate
 
 <!-- ============================= -->
 <!--             ABOUT ME          -->
