@@ -1,24 +1,25 @@
 
 
-
-![DNA damage illustration]([https://mir-s3-cdn-cf.behance.net/project_modules/1400/0a3c7d99055383.5f0f3b8f1e3e0.jpg](https://www.behance.net/gallery/99055383/Illustration-scientist-looking-for-DNA-damage/modules/571795825))
+![image](https://github.com/user-attachments/assets/536d13fe-c912-42f6-85e6-619b70be7835)
 
 
 <!-- ============================= -->
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-<div align="center">
-  <h1>Hello (Bio)World!</h1>
-  <p><strong>I'm Andrea Duque, a computational biology and bioinformatics graduate</strong></p>
-</div>
+<!--<div align="center"> -->
+<!--  <h1>Hello (Bio)World!</h1> -->
+<!-- <p><strong>I'm Andrea Duque, a computational biology and bioinformatics graduate</strong></p> -->
+<!-- </div> --> 
 
+# Hello (Bio)World! <br/>
+### I'm Andrea Duque, a computational biology and bioinformatics graduate
 
 <!-- ============================= -->
 <!--             ABOUT ME          -->
 <!-- ============================= -->
 
- ## About me: 
+ ## About Me: 
  
 🎓 MSc at NOVA School of Science and Technology. <br/>
 🔬 Specialized in Multi‑Omics for Life and Health Sciences. <br/>
@@ -32,7 +33,7 @@
 <!-- ============================= -->
 <!--         TECH & TOOLS          -->
 <!-- ============================= -->
-## Languages & Tools I Have Placed My Hands On
+## Languages & Tools I Have Placed My Hands On:
 <p align="center">
  
   <a href="https://skillicons.dev">
