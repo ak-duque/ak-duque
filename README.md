@@ -19,7 +19,7 @@ Here, I’ll be sharing the projects I developed during my master’s courses.<b
 🔬 Specialized in Multi‑Omics for Life and Health Sciences. <br/>
 🐟 Recently worked on a **`functional genomics approach`** to explore adaptation and resilience to thermal stress in intertidal fish. <br/>
 📈 Passionate about uncovering patterns and creating clear, aesthetic visualizations (hopefully one day, Nature‑style!). <br/>
-💻 Currently improving my programming and data analysis skill, sdeepening my R knowledge while developing new competencies in SQL and Power BI. <br/>
+💻 Currently improving my programming and data analysis skills, deepening my R knowledge while developing new competencies in SQL. <br/>
 
 
 <!-- ============================= -->
