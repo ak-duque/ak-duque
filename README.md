@@ -31,7 +31,6 @@ Here, I’ll be sharing the projects I developed during my master’s courses.<b
 
 
 
----
 <!-- ============================= -->
 <!--         TECH & TOOLS          -->
 <!-- ============================= -->
