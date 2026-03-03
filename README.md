@@ -1,15 +1,16 @@
 
 
 
-![hippo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWszdWR5a2lkamdlem5mbTcxYW1ndjkyMDAwcHR0cTUydWx1aGo1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EqgFKvGVxAseWbyrXy/giphy.gif)
+![DNA damage illustration](https://mir-s3-cdn-cf.behance.net/project_modules/1400/0a3c7d99055383.5f0f3b8f1e3e0.jpg)
+
 
 <!-- ============================= -->
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
 <div align="center">
-  <h1>Hello (Bio)World!</h1><br/>
-  <h3>I'm Andrea Duque, a computational biology and bioinformatics graduate</h3>
+  <h1>Hello (Bio)World!</h1>
+  <p><strong>I'm Andrea Duque, a computational biology and bioinformatics graduate</strong></p>
 </div>
 
 
