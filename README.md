@@ -28,7 +28,7 @@ Here, I’ll be sharing the projects I developed during my master’s courses.<b
 ## Languages & Tools I Have Placed My Hands On:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,docker,git,github,latex,linux,notion,py,r,stackoverflow,ubuntu,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=anaconda,bash,docker,git,github,latex,linux,notion,py,r,stackoverflow,ubuntu,vscode&theme=light" />
   </a>
 </p>
 
